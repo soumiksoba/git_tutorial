@@ -1,1 +1,1 @@
-print("This is a tutorial of the current project")
+print("This is an updated tutorial of the current project")
